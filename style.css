@@ -1,0 +1,137 @@
+body{
+margin: 0;
+padding: 0;
+background: url('https://cdn.discordapp.com/attachments/919860069535989806/921771635210612736/zr1XEyu.gif');
+background-repeat: no-repeat;
+background-size: cover;
+}
+.img{
+text-align: center;
+color: #8000ff;
+font-family: "Sector 034";
+font-size: 25px;
+}
+.texturk{
+color: aliceblue;
+font-family: "Azonix";
+}
+.btn1{
+text-align: center;
+display: box;
+border: none;
+background: #8000ff;
+font-family: "Azonix";
+font-size: 16px;
+padding: 16px 30px;
+border-radius: 20px;
+}
+.btn1:hover{
+background: none;
+color: #8000ff;
+border: 1px solid #8000ff;
+}
+.slider{
+text-align: center;
+color: aliceblue;
+font-family: "Moon";
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+}
+.container{
+position: relative;
+transition: left 2s;
+-webkit-transition: left 2s;
+-moz-transition: left 2s;
+-o-transition: left 2s;
+}
+.crm{
+font-family: "Moon";
+color: #8000ff;
+text-align: center;
+}
+.image{
+text-align: center;
+float: left;
+margin: 0px;
+padding: 0px;
+}
+.b
+
+
+.pog{
+color: #8000ff;
+font-family: "Moon";
+}
+.hr1{
+color: #8000ff;
+background: #8000ff;
+}
+
+.ziggzag{
+font-size: 25px;
+color: azure;
+position: relative;
+
+}
+.image2{
+position: relative;
+left: 600px;
+}
+.partners{
+
+display: box;
+border-radius: 30px;
+font-family: "Agus Sans";
+font-size: 16px;
+border: none;
+background: none; 
+color: #8000ff;
+position: relative;
+top: 25px;
+left: 250px;
+padding: 10px 30px;
+}
+.partners:hover{
+background: linear-gradient(to right top,#8000ff,pink);
+color: black;
+}
+.bd{
+position: relative;
+top: 30px;
+left: 15px;
+}
+.Goods{
+ display: box;
+border-radius: 30px;
+font-family: "Agus Sans";
+font-size: 16px;
+border: none;
+background: none; 
+color: #8000ff;
+position: relative;
+top: 25px;
+left: 260px;
+padding: 10px 30px;
+}
+.Goods:hover{
+background: linear-gradient(to right top,#8000ff,pink);
+color: black;
+}
+.Discord{
+ display: box;
+border-radius: 30px;
+font-family: "Agus Sans";
+font-size: 16px;
+border: none;
+background: none; 
+color: #8000ff;
+position: relative;
+top: 25px;
+left: 300px;
+padding: 10px 30px;
+}
+.Discord:hover{
+background: linear-gradient(to right top,#8000ff,pink);
+color: black;
+}
